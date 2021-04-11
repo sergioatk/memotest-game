@@ -1,0 +1,23 @@
+{
+  "name": "memotest-game",
+  "version": "1.0.0",
+  "description": "This is a repository for a memotest game.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioatk/memotest-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergioatk/memotest-game/issues"
+  },
+  "homepage": "https://github.com/sergioatk/memotest-game#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0"
+  }
+}
