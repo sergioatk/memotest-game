@@ -1,9 +1,55 @@
-h1 {
+.row {
+   height: 25vh;
+}
+
+#exito {
     text-align: center;
 }
 
-.cuadro {
-    width: 30vw;
-    height: 30vh;
+.columna-juego {
+    border: 1px solid black;
     
+    
+}
+
+.oculto {
+    display: none;
+}
+
+.completo {
+    background-color: gray;
+}
+.cuadro {
+
+    padding: 10px;
+    width: 31vw;
+    opacity: 0;
+    transition: 150ms;
+
+    
+     
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.brown {
+    background-color: brown;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
 }
